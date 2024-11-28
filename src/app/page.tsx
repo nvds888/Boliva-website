@@ -108,7 +108,7 @@ const images = [
 ];
 
 const advertisements = [
-    '/grimgram_ad.png',
+    '/Grimgram_ad.png',
     '/grimgram_air.png'
 ];
 
