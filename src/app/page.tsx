@@ -109,7 +109,9 @@ const images = [
 
 const advertisements = [
     '/Grimgram_ad.png',
-    '/grimgram_air.png'
+    '/grimgram_air.png',
+    '/Adopteer_een.png',
+    '/Kerk.png'
 ];
 
 export default function Home() {
